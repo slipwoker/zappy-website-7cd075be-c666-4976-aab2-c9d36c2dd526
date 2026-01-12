@@ -1,0 +1,41 @@
+# MoonLeads — Generative Engine Optimization Map
+
+> A מערכת CRM business.
+
+---
+
+## Pages
+
+## Legal & Policy
+
+### Privacy Policy
+https://moonleads-7cd075be.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://moonleads-7cd075be.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://moonleads-7cd075be.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About MoonLeads
+MoonLeads is a business in the מערכת CRM industry.
+
+## Target Audience
+בעלי עסקים
+
+## Industry
+מערכת CRM
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://moonleads-7cd075be.zappy5.app/sitemap.xml
+- **Robots.txt**: https://moonleads-7cd075be.zappy5.app/robots.txt
